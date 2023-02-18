@@ -1,6 +1,6 @@
-# soar
+# Wings Education
 
-A new Flutter project.
+A new project for me to practice using Flutter, Dart and Firebase. Will continue building this application further
 
 ## Getting Started
 
